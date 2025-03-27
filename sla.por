@@ -1,4 +1,5 @@
 programa{
     funcao inicio(){
+    cadeia 
     }
 }
